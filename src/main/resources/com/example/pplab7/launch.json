@@ -1,9 +1,0 @@
-{
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "type": "java",
-      "name": "Launch Main",
-      "request": "launch",
-      "mainClass": "Main",
-      "vmArgs": "--module-path /desktop/javafx-sdk-11/lib--add-modules javafx.controls,javafx.fxml"}]}
